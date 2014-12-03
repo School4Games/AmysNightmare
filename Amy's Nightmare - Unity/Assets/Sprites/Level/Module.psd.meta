@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: f36975eec54cf8e42a9c3f870e55bd92
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Module
+    21300002: Gerade 7U
+    21300004: Gerade 4U
+    21300006: Wall 5U
+    21300008: Big HideObject
+    21300010: Gerade 3U
+    21300012: Checkpoint
+    21300014: LoadLevel
+    21300016: Gerade 2U
+    21300018: Wall 3U
+    21300020: "Schr\xE4ge Left 3U"
+    21300022: Wall 2U
+    21300024: Small HideObject
+    21300026: "Schr\xE4ge Right 6U"
+    21300028: "Schr\xE4ge Right 3U"
+    21300030: "Schr\xE4ge Right 2U"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gerade 7U
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1973
+        width: 700
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gerade 4U
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1873
+        width: 400
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wall 5U
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1448
+        width: 50
+        height: 500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big HideObject
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1446
+        width: 200
+        height: 500
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gerade 3U
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1773
+        width: 300
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Checkpoint
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1748
+        width: 100
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoadLevel
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1448
+        width: 250
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gerade 2U
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1673
+        width: 200
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wall 3U
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1448
+        width: 50
+        height: 300
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Schr\xE4ge Left 3U"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1323
+        width: 300
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wall 2U
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1448
+        width: 50
+        height: 200
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Small HideObject
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Schr\xE4ge Right 6U"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 848
+        width: 600
+        height: 350
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Schr\xE4ge Right 3U"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 998
+        width: 300
+        height: 250
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Schr\xE4ge Right 2U"
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1048
+        width: 200
+        height: 200
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

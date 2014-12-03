@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: ed29f7e4734b0ed4aa51f9e0d7473a4a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Amy Spritesheed Alpha
+    21300002: RightShoulder
+    21300004: RightElbow
+    21300006: RightHand
+    21300008: RightShinebone
+    21300010: RightThigh
+    21300012: RightFoot
+    21300014: Torso
+    21300016: Head
+    21300018: LeftShoulder
+    21300020: LeftElbow
+    21300022: LeftHand
+    21300024: LeftThigh
+    21300026: LeftShinebone
+    21300028: LeftFoot
+    21300030: Waist
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RightShoulder
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1402
+        width: 142
+        height: 429
+      alignment: 9
+      pivot: {x: .469079345, y: .864209294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightElbow
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 946
+        width: 88
+        height: 333
+      alignment: 9
+      pivot: {x: .475583345, y: 1.03476369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightHand
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 579
+        width: 130
+        height: 224
+      alignment: 9
+      pivot: {x: .796688259, y: 1.00043237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightShinebone
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 625
+        width: 152
+        height: 505
+      alignment: 9
+      pivot: {x: .665736556, y: 1.00249434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightThigh
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1311
+        width: 239
+        height: 671
+      alignment: 9
+      pivot: {x: .63056469, y: .837873161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightFoot
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 169
+        width: 258
+        height: 172
+      alignment: 9
+      pivot: {x: .776885509, y: .9407565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 908
+        width: 327
+        height: 522
+      alignment: 9
+      pivot: {x: .547328174, y: .153346851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1657
+        width: 359
+        height: 376
+      alignment: 9
+      pivot: {x: .581696689, y: .127743989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftShoulder
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1389
+        width: 156
+        height: 447
+      alignment: 9
+      pivot: {x: .455146998, y: .869201005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftElbow
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 918
+        width: 87
+        height: 352
+      alignment: 9
+      pivot: {x: .497498274, y: 1.02226114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftHand
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 605
+        width: 119
+        height: 180
+      alignment: 9
+      pivot: {x: .607811689, y: 1.01045907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftThigh
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1312
+        width: 242
+        height: 673
+      alignment: 9
+      pivot: {x: .590053618, y: .839915037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftShinebone
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 609
+        width: 152
+        height: 507
+      alignment: 9
+      pivot: {x: .648255169, y: 1.04020739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 151
+        width: 283
+        height: 211
+      alignment: 9
+      pivot: {x: .784054577, y: .838680744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waist
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 153
+        width: 344
+        height: 589
+      alignment: 9
+      pivot: {x: .821845114, y: .405004382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
