@@ -27,12 +27,13 @@ public class PlayerControlScript : MonoBehaviour {
 	private float Counter = 10.0f;
 	public float Countspeed = 1.0f;
 	public Transform Spawnpoint;
+	public GameObject Amy;
 
 	// Use this for initialization
 	
 	void Start() 
 	{
-		anim = GetComponent<Animator>();
+		anim = Amy.GetComponent<Animator>() as Animator;
 		Flip = false;
 		transform.position = new Vector3 (Spawnpoint.position.x, Spawnpoint.position.y, transform.position.z);
 		StartCounter = Counter;
